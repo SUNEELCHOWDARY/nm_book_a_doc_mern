@@ -1,5 +1,5 @@
 # For Demo [[Click here]](https://drive.google.com/file/d/1lu_O0u8QPNYJgLuqVwdjyzE4fgOETdqT/view?usp=sharing) 
-# For Report [[Click Here]](https://docs.google.com/document/d/1mV5R3TmXOvT9jT7poVf2VgXl0_FC_O-C/edit?usp=drive_link&ouid=101385965814593200442&rtpof=true&sd=true)
+# For Report [[Click Here]](https://drive.google.com/file/d/1nXDYPl4z6vOmjqB8OQ8iFof9uL0TLYVe/view?usp=sharing)
 
 
 
@@ -14,7 +14,7 @@ To set up BloodLife locally, follow these steps:
 
 - Clone the repository:
 
-      git clone https://github.com/OviSarkar62/AppointDoc.git
+      git clone https://github.com/SUNEELCHOWDARY/nm_book_a_doc_mern.git
       
 - Install the required dependencies for backend:
 
